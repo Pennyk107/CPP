@@ -1,0 +1,13 @@
+1 General information
+Beyond.exe is designed to simulate an administrator-user system and maintain an account.
+The source code includes 1146 lines.
+The object-oriented system consists of 4 classes.
+
+2 Functionality
+The program is intended for personal use.
+
+3 Input
+As initial data, the program uses data read from external files, as well as data entered by the user from the keyboard.
+
+4 Imprint
+Output data is displayed on the screen and in history files, and is also created during program scripts.

@@ -1,0 +1,21 @@
+			       Donetsk National Technical University
+Faculty of CST
+Department of PI
+
+
+                                           course project
+                      in the discipline "Object-oriented programming"
+                          on the topic: "Object-oriented system "Table store""
+
+
+
+Leader: Completed:
+Ass. cafe PI 									Art. gr. PI-21a
+Grishchenko D.A. 								Seleznev D.D.
+Shchedrin S.V.
+
+
+
+                                             Donetsk 2022
+[TAB] - change language                                                     [9] - about the program
+[ESC] - exit                                                                [0] - about the author

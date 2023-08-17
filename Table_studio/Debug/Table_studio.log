@@ -1,0 +1,4 @@
+﻿  Table_studio.cpp
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Курсавая\Table_studio_ok точно\Table_studio\Table_studio.cpp(19,30): warning C4101: key_lang: неиспользованная локальная переменная
+C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Курсавая\Table_studio_ok точно\Table_studio\Table_studio.cpp(19,18): warning C4101: key_global: неиспользованная локальная переменная
+  Table_studio.vcxproj -> C:\Users\dengt\Desktop\Учёба\2 семестр\ООП\Курсавая\Table_studio_ok точно\Debug\Table_studio.exe
